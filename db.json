@@ -1,8 +1,13 @@
 {
+  "items": [
+    { "id": 1, "title": "Item 1", "description": "long text description" },
+    { "id": 2, "title": "Item 2", "description": "long text description" },
+    { "id": 3, "title": "Item 3", "description": "long text description" }
+  ],
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1", "body": "long text description" },
+    { "id": 2, "title": "Post 2", "body": "long text description" },
+    { "id": 3, "title": "Post 3", "body": "long text description" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
